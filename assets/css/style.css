@@ -1,0 +1,108 @@
+
+
+/*Body*/
+html {
+    min-height: 100%;
+    position: relative;
+  }
+
+  footer {
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+
+  }
+
+body{
+    background-color: rgba(255, 255, 255, 0.856);
+    background-repeat:no-repeat;
+    margin: 0;
+    background-size:cover;
+    background-attachment: fixed;
+    margin-bottom: 40px;
+  
+}
+.jumbotron{
+    padding-bottom:200px ;
+    color:white;
+}
+
+.contenido1{
+    background-image: url("../img/contenido1.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    margin-bottom: 40px;
+    
+}
+
+.d-block {
+    display: block;
+    width: 100%;
+    height:500px;
+    
+}
+.d-block img {
+    height: 40%;
+    width: 100%;
+}
+
+.separador{
+    margin-top:40px;
+}
+
+.fo{
+    background-color: rgb(96, 41, 20);
+    color: white;
+}
+
+/*navbar*/
+.navbar-brand
+{
+    font-size: 30px;
+    
+}
+
+.nav-link{
+    font-size: 20px;
+    
+    
+}
+
+.nav-item{
+    padding-left:40px;
+}
+
+.conav{
+    background-color: rgb(96, 41, 20);
+    
+    }
+    
+.separa{
+    padding-left:16px;
+}
+
+/*carrusel*/
+.ca{
+    border-radius:20px;
+}
+
+
+/*paneles ventas*/
+.tamañopanel{
+    height:180px;
+}
+
+.h-100{
+    background-color: #fea525;
+    color: white;    
+}
+
+.list-group-item{
+    background-color: #fea525;
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+}
